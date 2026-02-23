@@ -3,7 +3,7 @@
 
 ---
 
-# 🌱 Agrisynx-Develop
+# 🐥 Agrisynx-Develop
 
 **Agrisynx-Develop** is a development-oriented profile focused on  
 **data-driven solutions, analytical systems, and applied technologies for agriculture and livestock production**.
