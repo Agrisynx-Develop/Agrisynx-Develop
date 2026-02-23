@@ -19,7 +19,6 @@ This profile represents ongoing development activities, experimental systems, an
 - 🌟 [About Agrisynx-Develop](#about-agrisynx-develop)
 - 🎯 [Core Focus](#core-focus)
 - 🧠 [Development Scope](#development-scope)
-- 📊 [Development Principles](#development-principles)
 - 📬 [Contact & Collaboration](#contact--collaboration)
 
 </details>
@@ -53,14 +52,6 @@ Activities under this profile include:
 ---
 
 
-## 📊 Development Principles
-Agrisynx-Develop is guided by the following principles:
-- **Data-first approach** grounded in measurable indicators  
-- **Evidence-based development**, aligned with scientific methods  
-- **Simplicity and interpretability** over unnecessary complexity  
-- **Scalability and reproducibility** for real farm conditions  
-
----
 
 ## 📬 Contact & Collaboration
 Agrisynx-Develop is open to:
